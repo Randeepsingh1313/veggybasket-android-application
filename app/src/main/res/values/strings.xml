@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="description">Freshly prepared noodles by traditional method</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="vary" >Price subject to change based on offers available at pick-up time.</string>
+    <string name="list">List of Fresh Fruits and Vegetables</string>
+    <string name="heading">VEGGY BASKET</string>
+    <string name="about">Veggy Basket allows you to take your grocery list wherever you go — no pen or paper required. In addition to allowing users to create a fun, interactive shopping list. </string>
+</resources>
